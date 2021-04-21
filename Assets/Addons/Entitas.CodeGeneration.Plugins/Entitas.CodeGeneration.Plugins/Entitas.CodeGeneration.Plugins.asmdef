@@ -1,0 +1,29 @@
+{
+    "name": "Entitas.CodeGeneration.Plugins",
+    "references": [
+        "GUID:d373d6fcfa2502743bc5eee69edfb1c0",
+        "GUID:d10edb221b5bbf041afffeeadd9ab862"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DesperateDevs.Analytics.dll",
+        "DesperateDevs.CodeGeneration.CodeGenerator.Unity.Editor.dll",
+        "DesperateDevs.CodeGeneration.Plugins.dll",
+        "DesperateDevs.Logging.dll",
+        "DesperateDevs.CodeGeneration.Unity.Plugins.dll",
+        "DesperateDevs.CodeGeneration.CodeGenerator.dll",
+        "DesperateDevs.CodeGeneration.dll",
+        "DesperateDevs.Networking.dll",
+        "DesperateDevs.Serialization.dll",
+        "DesperateDevs.Unity.Editor.dll",
+        "DesperateDevs.Utils.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
